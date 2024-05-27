@@ -1,0 +1,21 @@
+Partida. 
+Fecha: 2024-05-12T16:57:34.461078200
+Número de intentos: 8
+Partida. 
+-Fecha: 2024-05-13T14:00:40.488509700
+-Número de intentos: 10
+Partida. 
+-Fecha: 2024-05-20T22:33:00.815160100
+-Número de intentos: 9
+Partida. 
+-Fecha: 2024-05-24T11:26:11.189802300
+-Número de intentos: 9
+Partida. 
+-Nickname: player
+-Fecha: 2024-05-26T12:01:17.137968
+-Número de intentos: 12
+Partida. 
+-Nickname: player3000
+-Dificultad: DIFÍCIL
+-Fecha: 2024-05-27T19:21:00.683077400
+-Número de intentos: 11

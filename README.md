@@ -7,3 +7,5 @@ Este juego tiene 3 dificultades posibles, en el que cada nivel dificultad tiene 
 Una vez finalizada la partida, guarda en un fichero de texto: el nickname que haya introducido el jugador, junto con el número de intentos y la dificultad del juego, esta última seleccionada por el jugador al inicio del programa. De esta manera se guardan los logs de cada partida que se juega.
 
 El número de intentos representa la cantidad de parejas que el jugador selecciona antes de haber adivinado todas las combinaciones posibles.
+
+Más información en la carpeta src del proyecto.
